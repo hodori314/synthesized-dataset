@@ -1,5 +1,4 @@
 cifar100
 __pycache__
-*.png
-*.ipynb
+dcgan-again.ipynb
 enhance.py

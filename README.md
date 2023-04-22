@@ -2,10 +2,10 @@
 synthesized dataset by distribution matching and gradient matching  
 from: https://github.com/VICO-UoE/DatasetCondensation  
 
-⚠️ Caution ⚠️  
+### ⚠️ Caution ⚠️  
 distribution-matching set and cifar100 are not sharing same labels.  
 
-📁 File Tree 📁  
+### 📁 File Tree 📁  
 - DCGAN.ipynb  
 - gradient-matching (CIFAR10)  
     - 0  
