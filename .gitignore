@@ -1,3 +1,5 @@
 cifar100
 __pycache__
 *.png
+*.ipynb
+enhance.py
