@@ -22,4 +22,8 @@ distribution-matching set and cifar100 are not sharing same labels.
 - distribution-generated-leakage
     - {cifar100 label}minlabel{distribution label}.png
 
-- tsne-cpu.py (https://github.com/2-Chae/PyTorch-tSNE)
+- tsne.py (https://github.com/2-Chae/PyTorch-tSNE)  
+- cond-gen-samples - samples made by one class generater (`apples`, `leopard`, `bicycle`)
+    - 100
+        - {label}{#}.png
+- dm-{`apple` | `leopard` | `bicycle`}
