@@ -9,7 +9,7 @@ distribution-matching set and cifar100 are not sharing same labels.
 - generater
     - DCGAN.py
     - DCGANmodel.py
-- gradient-matching (CIFAR10)  
+- gradient-matching (CIFAR10,  )
     - 0  
     - ...  
     - 9  
@@ -21,3 +21,5 @@ distribution-matching set and cifar100 are not sharing same labels.
     - label{synthesized data's label(data was picked randomly)}_minlabel{original data's label that is the most similar with synthesized data among the original dataset}.png
 - distribution-generated-leakage
     - {cifar100 label}minlabel{distribution label}.png
+
+- tsne-cpu.py (https://github.com/2-Chae/PyTorch-tSNE)

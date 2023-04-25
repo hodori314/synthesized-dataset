@@ -4,3 +4,5 @@ dcgan-again.ipynb
 DCGAN.ipynb
 trash
 results
+tsne-save
+*.npy
